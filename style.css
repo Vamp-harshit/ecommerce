@@ -89,10 +89,12 @@ header a ion-icon {
   position: relative;
   right: 3px;
 }
-
+.section1{
+    height: 720px;
+}
 .img-slider img {
-  height: 720px;
-  width: 1080px;
+  height: auto;
+  width: auto;
 }
 @keyframes slide {
   0% {
